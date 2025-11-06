@@ -1,4 +1,3 @@
-Perfecto Robotina, aquí tienes el README actualizado incluyendo Supabase:
 
 ---
 
