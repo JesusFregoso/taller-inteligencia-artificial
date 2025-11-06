@@ -65,5 +65,3 @@ Para este taller necesitaremos tener cuenta creada en las siguientes plataformas
 Este repositorio está bajo licencia MIT.
 
 ---
-
-¿Quieres ahora que te haga también en el README una sección final de **"Actividades del Taller"** donde pongamos 3 ejercicios hands-on que haremos con las herramientas?
